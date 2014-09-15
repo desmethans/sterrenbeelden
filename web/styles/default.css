@@ -1,0 +1,18 @@
+.ram {
+    background-color: #ff3333;
+}
+.stier {
+    background-color: #ffa500;
+}
+.tweeling, .leeuw {
+    background-color: #ffee00;
+}
+.kreeft, .schorpioen, .steenbok, .vissen {
+    background-color: #ccffcc;
+}
+.maagd, .weegschaal, .waterman {
+    background-color: #99ffff;
+}
+.boogschutter {
+    background-color: #ff66ff;
+}
